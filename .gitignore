@@ -1,0 +1,13 @@
+# Environment
+.env
+
+# Conda environment directory (if created locally)
+test/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE specific
+.vscode/
+.idea/
