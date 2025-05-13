@@ -11,7 +11,7 @@ This script demonstrates using the `openai-agents` library to interact with an a
 
 ## Setup
 
-1.  **Environment:** Create a conda environment (e.g., `test`) with Python 3.10+.
+1.  **Environment:** Create a conda environment (e.g., `test`) with Python 3.12+.
     ```bash
     conda create -n test python=3.12
     conda activate test
