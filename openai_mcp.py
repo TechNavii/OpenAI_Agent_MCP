@@ -1,6 +1,5 @@
 import asyncio
 from datetime import datetime
-import os
 from dotenv import load_dotenv
 
 from agents import Agent, Runner, function_tool
